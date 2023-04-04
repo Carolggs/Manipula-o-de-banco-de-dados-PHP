@@ -1,0 +1,9 @@
+.mt-4, h1, p{
+    margin: 50px;
+}
+h3{
+    text-align: center;
+}
+body{
+    padding: 15px;
+}
